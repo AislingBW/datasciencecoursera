@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "AO"
 date: "18/09/2019"
-utput: md_document
+Output: md_document
 ---
 
 
